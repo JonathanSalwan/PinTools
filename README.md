@@ -23,6 +23,18 @@ Related blog post
 
 - http://shell-storm.org/blog/Stack-and-heap-overflow-detection-at-runtime-via-behavior-analysis-and-PIN/
 
+**ObsoleteStackFrameAccessDetection**
+
+- http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/#5.1
+
+**ClassicalUseAfterFreePatternMatching**
+
+- http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/#5.2
+
+**PointerWithoutCheckDetection**
+
+- http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/#6
+
 **TaintAnalysis**
 
 - http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/
