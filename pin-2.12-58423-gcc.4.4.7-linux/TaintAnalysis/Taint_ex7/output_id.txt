@@ -1,0 +1,1063 @@
+[INFO]					malloc(5) = 1935010
+[PTR 1935010 checked]			7f3c69857516: test rax, rax
+[PTR 1935010 checked]			7f3c69851bd6: test rax, rax
+[INFO]					free(1935010)
+[PTR 1935010 checked]			7f3c698a3a1f: test rdi, rdi
+[INFO]					malloc(78) = 1935030
+[PTR 1935030 checked]			7f3c69851abf: test rax, rax
+[PTR 1935010 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(c) = 1935010
+[PTR 1935010 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935010 checked]			7f3c69851ada: test rax, rax
+[INFO]					malloc(308) = 19350b0
+[PTR 19350b0 checked]			7f3c69851237: test rax, rax
+[PTR 19350b0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(70) = 19353c0
+[PTR 19353c0 checked]			7f3c69851237: test rax, rax
+[PTR 19353c0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(3b8) = 1935440
+[PTR 1935440 checked]			7f3c69851237: test rax, rax
+[PTR 1935440 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(d8) = 1935800
+[PTR 1935800 checked]			7f3c69851237: test rax, rax
+[PTR 1935800 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(1b0) = 19358e0
+[PTR 19358e0 checked]			7f3c69851237: test rax, rax
+[PTR 19358e0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(68) = 1935aa0
+[PTR 1935aa0 checked]			7f3c69851237: test rax, rax
+[PTR 1935aa0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(58) = 1935b10
+[PTR 1935b10 checked]			7f3c69851237: test rax, rax
+[PTR 1935b10 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(78) = 1935b70
+[PTR 1935b70 checked]			7f3c69851237: test rax, rax
+[PTR 1935b70 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(a8) = 1935bf0
+[PTR 1935bf0 checked]			7f3c69851237: test rax, rax
+[PTR 1935bf0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(68) = 1935ca0
+[PTR 1935ca0 checked]			7f3c69851237: test rax, rax
+[PTR 1935ca0 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(50) = 1935d10
+[PTR 1935d10 checked]			7f3c69851237: test rax, rax
+[PTR 1935d10 checked]			7f3c69851b39: test rax, rax
+[INFO]					malloc(c0) = 1935d70
+[PTR 1935d70 checked]			7f3c69851237: test rax, rax
+[PTR 1935d70 checked]			7f3c69851b39: test rax, rax
+[PTR 1935d70 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935d70 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935e40
+[PTR 1935e40 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935e40 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935d10 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935d10 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935e60
+[PTR 1935e60 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935e60 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935ca0 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935ca0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935e80
+[PTR 1935e80 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935e80 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935bf0 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935bf0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935ea0
+[PTR 1935ea0 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935ea0 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935b70 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935b70 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935ec0
+[PTR 1935ec0 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935ec0 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935b10 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935b10 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935ee0
+[PTR 1935ee0 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935ee0 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935aa0 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935aa0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935f00
+[PTR 1935f00 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935f00 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 19358e0 checked]			7f3c69850d1f: test rax, rax
+[PTR 19358e0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935f20
+[PTR 1935f20 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935f20 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935800 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935800 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935f40
+[PTR 1935f40 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935f40 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 1935440 checked]			7f3c69850d1f: test rax, rax
+[PTR 1935440 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935f60
+[PTR 1935f60 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935f60 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 19353c0 checked]			7f3c69850d1f: test rax, rax
+[PTR 19353c0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935f80
+[PTR 1935f80 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935f80 checked]			7f3c69850938: test rax, rax
+[PTR 1935030 checked]			7f3c69851895: test r12, r12
+[PTR 19350b0 checked]			7f3c69850d1f: test rax, rax
+[PTR 19350b0 checked]			7f3c6985084a: test rax, rax
+[INFO]					malloc(c) = 1935fa0
+[PTR 1935fa0 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1935fa0 checked]			7f3c69850938: test rax, rax
+[INFO]					malloc(c) = 1935fc0
+[PTR 1935fc0 checked]			7f3c6985059c: test rax, rax
+[PTR 1935fc0 checked]			7f3c69850a7b: test rax, rax
+[INFO]					free(0)
+[INFO]					malloc(22) = 1935fe0
+[PTR 1935fe0 checked]			7f3c69853420: test rax, rax
+[INFO]					malloc(a) = 1936010
+[PTR 1936010 checked]			7f3c698a8ac2: test rax, rax
+[PTR 1936010 checked]			7f3c69857010: test rax, rax
+[PTR 1935fe0 checked]			7f3c6985468f: test r12, r12
+[PTR 1935fe0 checked]			7f3c698546cd: test r12, r12
+[INFO]					malloc(37) = 1936030
+[PTR 1936030 checked]			7f3c69857138: test rax, rax
+[INFO]					free(1936030)
+[PTR 1936030 checked]			7f3c698a3a1f: test rdi, rdi
+[INFO]					malloc(238) = 1936070
+[PTR 1936070 checked]			7f3c6988faeb: test rax, rax
+[PTR 1936070 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1936070 checked]			7f3c6988fb46: test rax, rax
+[PTR 1936070 checked]			7f3c69856941: test rax, rax
+[INFO]					malloc(640) = 19362b0
+[PTR 19362b0 checked]			7f3c69856acf: test rax, rax
+[INFO]					malloc(400) = 1936900
+[PTR 1936900 checked]			7f3c69856ca4: test rax, rax
+[PTR 1936900 checked]			7f3c698a3ae4: test rbp, rbp
+[PTR 1936900 checked]			7f3c698a3bad: test rdx, rdx
+[PTR 1936900 checked]			7f3c69856ca4: test rax, rax
+[PTR 1936070 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1936070)
+[PTR 1936070 checked]			7f3c698a3a1f: test rdi, rdi
+[INFO]					free(0)
+[PTR 1936030 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(5) = 1936030
+[PTR 1936030 checked]			7f3c69857516: test rax, rax
+[PTR 1936030 checked]			7f3c69857788: test rax, rax
+[INFO]					malloc(3c) = 1936050
+[PTR 1936050 checked]			7f3c69857138: test rax, rax
+[INFO]					malloc(68) = 19360a0
+[PTR 19360a0 checked]			7f3c6985727a: test rax, rax
+[INFO]					malloc(37) = 1936110
+[PTR 1936110 checked]			7f3c69857138: test rax, rax
+[PTR 19360a0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(48) = 1936150
+[PTR 1936150 checked]			7f3c6985727a: test rax, rax
+[INFO]					malloc(31) = 19361a0
+[PTR 19361a0 checked]			7f3c69857138: test rax, rax
+[PTR 1936150 checked]			7f3c698571cc: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(38) = 19361e0
+[PTR 19361e0 checked]			7f3c6985727a: test rax, rax
+[INFO]					malloc(2e) = 1936220
+[PTR 1936220 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(30) = 1936260
+[PTR 1936260 checked]			7f3c6985727a: test rax, rax
+[PTR 19360a0 checked]			7f3c69857484: test rbx, rbx
+[INFO]					malloc(34) = 1937110
+[PTR 1937110 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(38) = 1937150
+[PTR 1937150 checked]			7f3c6985727a: test rax, rax
+[PTR 1936260 checked]			7f3c69857484: test rbx, rbx
+[INFO]					malloc(2e) = 1937190
+[PTR 1937190 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(1937190)
+[PTR 1937190 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1937190 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(2e) = 1937190
+[PTR 1937190 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(1937190)
+[PTR 1937190 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1937190 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(36) = 1937190
+[PTR 1937190 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(48) = 19371d0
+[PTR 19371d0 checked]			7f3c6985727a: test rax, rax
+[PTR 19361e0 checked]			7f3c69857484: test rbx, rbx
+[INFO]					malloc(31) = 1937220
+[PTR 1937220 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(1937220)
+[PTR 1937220 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1937220 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(33) = 1937220
+[PTR 1937220 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(38) = 1937260
+[PTR 1937260 checked]			7f3c6985727a: test rax, rax
+[PTR 1936260 checked]			7f3c69857484: test rbx, rbx
+[INFO]					malloc(2e) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(2e) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(31) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[INFO]					malloc(39) = 19372e0
+[PTR 19372e0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					malloc(48) = 1937330
+[PTR 1937330 checked]			7f3c6985727a: test rax, rax
+[PTR 1937150 checked]			7f3c69857484: test rbx, rbx
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(34) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(33) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(2e) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(34) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(33) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1937260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(2e) = 19372a0
+[PTR 19372a0 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936050 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936260 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936220 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(19372a0)
+[PTR 19372a0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19360a0 checked]			7f3c6985512d: test rbx, rbx
+[PTR 1936150 checked]			7f3c698551a1: test rdi, rdi
+[PTR 1936110 checked]			7f3c698552ea: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698551c8: test rdi, rdi
+[PTR 1937190 checked]			7f3c698552ea: test rdi, rdi
+[PTR 19361e0 checked]			7f3c698551c8: test rdi, rdi
+[PTR 19361a0 checked]			7f3c698552ea: test rdi, rdi
+[PTR 1937330 checked]			7f3c698551c8: test rdi, rdi
+[PTR 1937150 checked]			7f3c698551c8: test rdi, rdi
+[PTR 1937110 checked]			7f3c698552ea: test rdi, rdi
+[PTR 1937260 checked]			7f3c698551c8: test rdi, rdi
+[PTR 1937220 checked]			7f3c698552ea: test rdi, rdi
+[PTR 1936260 checked]			7f3c698551c8: test rdi, rdi
+[PTR 1936220 checked]			7f3c698552ea: test rdi, rdi
+[INFO]					free(1936030)
+[PTR 1936030 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19360a0 checked]			7f3c698548b3: test rax, rax
+[PTR 1936150 checked]			7f3c69854ac4: test rdi, rdi
+[PTR 19371d0 checked]			7f3c69854aec: test rdi, rdi
+[PTR 19361e0 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1937330 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1937150 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1937260 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1936260 checked]			7f3c69854aec: test rdi, rdi
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					malloc(400) = 1937380
+[PTR 1937380 checked]			7f3c698db189: test rax, rax
+[INFO]					malloc(238) = 1937790
+[PTR 1937790 checked]			7f3c6988faeb: test rax, rax
+[PTR 1937790 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1937790 checked]			7f3c6988fb46: test rax, rax
+[PTR 1937790 checked]			7f3c6991c4ae: test rax, rax
+[PTR 1936030 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(10) = 1936030
+[PTR 1936030 checked]			7f3c6991c4cc: test rax, rax
+[INFO]					malloc(78) = 19379d0
+[PTR 19379d0 checked]			7f3c698908c3: test rax, rax
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19372a0 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(17) = 19372a0
+[PTR 19372a0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(37) = 1937a50
+[PTR 1937a50 checked]			7f3c6991bfb4: test rax, rax
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(17) = 19372c0
+[PTR 19372c0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(37) = 1937a90
+[PTR 1937a90 checked]			7f3c6991bfb4: test rax, rax
+[PTR 19372a0 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(16) = 1937ad0
+[PTR 1937ad0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(37) = 1937af0
+[PTR 1937af0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 19372c0 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(16) = 1937b30
+[PTR 1937b30 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1937b50
+[PTR 1937b50 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(34) = 1937b90
+[PTR 1937b90 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937ad0 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(19) = 1937bd0
+[PTR 1937bd0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1937c00
+[PTR 1937c00 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(34) = 1937c40
+[PTR 1937c40 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937b30 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(19) = 1937c80
+[PTR 1937c80 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(33) = 1937cb0
+[PTR 1937cb0 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(36) = 1937cf0
+[PTR 1937cf0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937bd0 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(1a) = 1937d30
+[PTR 1937d30 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(33) = 1937d60
+[PTR 1937d60 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(36) = 1937da0
+[PTR 1937da0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937c80 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(14) = 1937de0
+[PTR 1937de0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(33) = 1937e00
+[PTR 1937e00 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(36) = 1937e40
+[PTR 1937e40 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937d30 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(17) = 1937e80
+[PTR 1937e80 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(33) = 1937ea0
+[PTR 1937ea0 checked]			7f3c6991bfb4: test rax, rax
+[INFO]					malloc(36) = 1937ee0
+[PTR 1937ee0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937de0 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(19) = 1937f20
+[PTR 1937f20 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1937f50
+[PTR 1937f50 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937e80 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(19) = 1937f90
+[PTR 1937f90 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1937fc0
+[PTR 1937fc0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937f20 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(1b) = 1938000
+[PTR 1938000 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1938030
+[PTR 1938030 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1937f90 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(1a) = 1938070
+[PTR 1938070 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 19380a0
+[PTR 19380a0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1938000 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					malloc(18) = 19380e0
+[PTR 19380e0 checked]			7f3c6991c5ff: test rax, rax
+[INFO]					malloc(36) = 1938100
+[PTR 1938100 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1938070 checked]			7f3c6991c62c: cmp qword ptr [rsp+0x18], 0x0
+[PTR 19379d0 checked]			7f3c6989089b: cmp qword ptr [r12], 0x0
+[INFO]					free(19379d0)
+[PTR 19379d0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1937790 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1937790)
+[PTR 1937790 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 19372a0 checked]			7f3c6991c3e3: test r15, r15
+[PTR 19372c0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937ad0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937b30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937bd0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937c80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937d30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937de0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937e80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f20 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f90 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938000 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938070 checked]			7f3c6991c40a: test r15, r15
+[PTR 19380e0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937a50 checked]			7f3c6991c412: test rax, rax
+[PTR 1937a50 checked]			7f3c6991c44b: test rax, rax
+[PTR 1937a50 checked]			7f3c6991c474: cmp qword ptr [rbx], 0x1
+[PTR 1937790 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(20) = 1937790
+[PTR 1937790 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1937790 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 19377c0
+[PTR 19377c0 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1936030 checked]			7f3c6991bd42: test r14, r14
+[INFO]					malloc(18) = 19377e0
+[PTR 19377e0 checked]			7f3c6991be42: test rax, rax
+[PTR 19377e0 checked]			7f3c6991bd83: test r12, r12
+[INFO]					malloc(1a) = 1937800
+[PTR 1937800 checked]			7f3c7ce33422: test rax, rax
+[PTR 1937800 checked]			7f3c7ce363c5: test rax, rax
+[INFO]					malloc(1a) = 1937830
+[PTR 1937830 checked]			7f3c7ce38e7f: test rax, rax
+[INFO]					malloc(13) = 1937860
+[PTR 1937860 checked]			7f3c7ce33422: test rax, rax
+[PTR 1937860 checked]			7f3c7ce363c5: test rax, rax
+[INFO]					malloc(13) = 1937880
+[PTR 1937880 checked]			7f3c7ce38e7f: test rax, rax
+[INFO]					malloc(28) = 19378a0
+[PTR 19378a0 checked]			7f3c7ce3a984: test rax, rax
+[INFO]					malloc(48) = 19378d0
+[PTR 19378d0 checked]			7f3c7ce3ab09: test rax, rax
+[PTR 19378a0 checked]			7f3c7ce4070b: test rax, rax
+[PTR 1938100 checked]			7f3c7ce409d0: cmp byte ptr [rbp-0x68], 0x0
+[PTR 1936030 checked]			7f3c6991c3d7: test r14, r14
+[PTR 19372a0 checked]			7f3c6991c3e3: test r15, r15
+[PTR 19372c0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937ad0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937b30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937bd0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937c80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937d30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937de0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937e80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f20 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f90 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938000 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938070 checked]			7f3c6991c40a: test r15, r15
+[PTR 19380e0 checked]			7f3c6991c40a: test r15, r15
+[INFO]					malloc(34) = 19379f0
+[PTR 19379f0 checked]			7f3c6991bfb4: test rax, rax
+[PTR 19379f0 checked]			7f3c6991c474: cmp qword ptr [rbx], 0x1
+[INFO]					malloc(20) = 1938b60
+[PTR 1938b60 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1938b60 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1937a30
+[PTR 1937a30 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1936030 checked]			7f3c6991bd42: test r14, r14
+[PTR 19377e0 checked]			7f3c6991bd51: test r12, r12
+[INFO]					malloc(18) = 1938b90
+[PTR 1938b90 checked]			7f3c6991be42: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd83: test r12, r12
+[INFO]					malloc(17) = 1938bb0
+[PTR 1938bb0 checked]			7f3c7ce33422: test rax, rax
+[PTR 1938bb0 checked]			7f3c7ce363c5: test rax, rax
+[INFO]					malloc(17) = 1939070
+[PTR 1939070 checked]			7f3c7ce38e7f: test rax, rax
+[INFO]					malloc(19) = 1939090
+[PTR 1939090 checked]			7f3c7ce33422: test rax, rax
+[PTR 1939090 checked]			7f3c7ce363c5: test rax, rax
+[INFO]					malloc(19) = 1939570
+[PTR 1939570 checked]			7f3c7ce38e7f: test rax, rax
+[PTR 19378a0 checked]			7f3c7ce3aa0c: cmp qword ptr [r12+0x3b8], 0x0
+[INFO]					malloc(28) = 19395a0
+[PTR 19395a0 checked]			7f3c7ce3a984: test rax, rax
+[INFO]					malloc(58) = 19395d0
+[PTR 19395d0 checked]			7f3c7ce3ab09: test rax, rax
+[PTR 19395a0 checked]			7f3c7ce3adca: test rax, rax
+[PTR 19395a0 checked]			7f3c7ce4070b: test rax, rax
+[PTR 1938b60 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1938b60 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 19397e0
+[PTR 19397e0 checked]			7f3c6990ab8b: test rax, rax
+[PTR 19397e0 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939810
+[PTR 1939810 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1938b60 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1938b60 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 19397e0 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 19397e0 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939830
+[PTR 1939830 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939830 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939860
+[PTR 1939860 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1939830 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939830 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1938b60 checked]			7f3c6990a9be: test rax, rax
+[PTR 19397e0 checked]			7f3c6990a9cb: test r9, r9
+[PTR 19397e0 checked]			7f3c6990a9f1: test rax, rax
+[PTR 19397e0 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 19397e0 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939880
+[PTR 1939880 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939880 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 19398b0
+[PTR 19398b0 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1939830 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939830 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1938b60 checked]			7f3c6990a9be: test rax, rax
+[PTR 19397e0 checked]			7f3c6990a9cb: test r9, r9
+[PTR 19397e0 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 19397e0 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1939880 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 1939880 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 19398d0
+[PTR 19398d0 checked]			7f3c6990ab8b: test rax, rax
+[PTR 19398d0 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939900
+[PTR 1939900 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[INFO]					malloc(238) = 1939920
+[PTR 1939920 checked]			7f3c6988faeb: test rax, rax
+[PTR 1939920 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1939920 checked]			7f3c6988fb46: test rax, rax
+[PTR 1939920 checked]			7f3c691ec763: test rax, rax
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[PTR 1937380 checked]			7f3c691ecdaf: test rax, rax
+[INFO]					free(0)
+[PTR 1939920 checked]			7f3c691ec866: test rdi, rdi
+[PTR 1939920 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1939920)
+[PTR 1939920 checked]			7f3c698a3a1f: test rdi, rdi
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1937380 checked]			7f3c698db168: cmp qword ptr [rip+0x2ea658], 0x0
+[PTR 1937380 checked]			7f3c6986b7ca: cmp qword ptr [rbp-0x590], 0x0
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1935fe0 checked]			7f3c6985468f: test r12, r12
+[PTR 1935fe0 checked]			7f3c698546cd: test r12, r12
+[PTR 1939920 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(37) = 1939920
+[PTR 1939920 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(1939920)
+[PTR 1939920 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1936150 checked]			7f3c69854f74: test rbx, rbx
+[PTR 19361e0 checked]			7f3c69855004: test rdi, rdi
+[PTR 1937150 checked]			7f3c69855034: test rdi, rdi
+[PTR 1936260 checked]			7f3c69855034: test rdi, rdi
+[PTR 1936150 checked]			7f3c698548b3: test rax, rax
+[PTR 19361e0 checked]			7f3c69854ac4: test rdi, rdi
+[PTR 1937150 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1936260 checked]			7f3c69854aec: test rdi, rdi
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1939920 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(400) = 1939920
+[PTR 1939920 checked]			7f3c698d9869: test rax, rax
+[PTR 1936030 checked]			7f3c6991c3d7: test r14, r14
+[PTR 19372a0 checked]			7f3c6991c3e3: test r15, r15
+[PTR 19372c0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937ad0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937b30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937bd0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937c80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937d30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937de0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937e80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f20 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f90 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938000 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938070 checked]			7f3c6991c40a: test r15, r15
+[PTR 19380e0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937af0 checked]			7f3c6991c412: test rax, rax
+[PTR 1937af0 checked]			7f3c6991c44b: test rax, rax
+[PTR 1937af0 checked]			7f3c6991c474: cmp qword ptr [rbx], 0x1
+[INFO]					malloc(20) = 1939d30
+[PTR 1939d30 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939d30 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939d60
+[PTR 1939d60 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1936030 checked]			7f3c6991bd42: test r14, r14
+[PTR 19377e0 checked]			7f3c6991bd51: test r12, r12
+[PTR 19377e0 checked]			7f3c6991bd83: test r12, r12
+[PTR 1936030 checked]			7f3c6991c3d7: test r14, r14
+[PTR 19372a0 checked]			7f3c6991c3e3: test r15, r15
+[PTR 19372c0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937ad0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937b30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937bd0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937c80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937d30 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937de0 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937e80 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f20 checked]			7f3c6991c40a: test r15, r15
+[PTR 1937f90 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938000 checked]			7f3c6991c40a: test r15, r15
+[PTR 1938070 checked]			7f3c6991c40a: test r15, r15
+[PTR 19380e0 checked]			7f3c6991c40a: test r15, r15
+[INFO]					malloc(34) = 1939d80
+[PTR 1939d80 checked]			7f3c6991bfb4: test rax, rax
+[PTR 1939d80 checked]			7f3c6991c474: cmp qword ptr [rbx], 0x1
+[INFO]					malloc(20) = 1939dc0
+[PTR 1939dc0 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939dc0 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939df0
+[PTR 1939df0 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1936030 checked]			7f3c6991bd42: test r14, r14
+[PTR 19377e0 checked]			7f3c6991bd51: test r12, r12
+[PTR 1938b90 checked]			7f3c6991bd6a: test r12, r12
+[PTR 1938b90 checked]			7f3c6991bd83: test r12, r12
+[PTR 1939dc0 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939dc0 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939e10
+[PTR 1939e10 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939e10 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939e40
+[PTR 1939e40 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1939dc0 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939dc0 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1939e10 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 1939e10 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939e60
+[PTR 1939e60 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939e60 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939e90
+[PTR 1939e90 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1939e10 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939e10 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1939dc0 checked]			7f3c6990a9be: test rax, rax
+[PTR 1939e60 checked]			7f3c6990a9cb: test r9, r9
+[PTR 1939e60 checked]			7f3c6990a9f1: test rax, rax
+[PTR 1939e60 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 1939e60 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939eb0
+[PTR 1939eb0 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939eb0 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939ee0
+[PTR 1939ee0 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[PTR 1939e10 checked]			7f3c6990aaf6: test rax, rax
+[PTR 1939e10 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1939dc0 checked]			7f3c6990a9be: test rax, rax
+[PTR 1939e60 checked]			7f3c6990a9cb: test r9, r9
+[PTR 1939e60 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 1939e60 checked]			7f3c6990ab27: test rbx, rbx
+[PTR 1939eb0 checked]			7f3c6990ab7a: test rbx, rbx
+[PTR 1939eb0 checked]			7f3c6990ab27: test rbx, rbx
+[INFO]					malloc(20) = 1939f00
+[PTR 1939f00 checked]			7f3c6990ab8b: test rax, rax
+[PTR 1939f00 checked]			7f3c6991c87a: test rax, rax
+[INFO]					malloc(10) = 1939f30
+[PTR 1939f30 checked]			7f3c6991c8ea: test rax, rax
+[PTR 1938b90 checked]			7f3c6991bd03: test r12, r12
+[INFO]					malloc(238) = 1939f50
+[PTR 1939f50 checked]			7f3c6988faeb: test rax, rax
+[PTR 1939f50 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1939f50 checked]			7f3c6988fb46: test rax, rax
+[PTR 1939f50 checked]			7f3c691eb773: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939f50 checked]			7f3c691eb676: test rdi, rdi
+[PTR 1939f50 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1939f50)
+[PTR 1939f50 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1939920 checked]			7f3c698d9848: cmp qword ptr [rip+0x2ebf50], 0x0
+[PTR 1939920 checked]			7f3c6986b7ca: cmp qword ptr [rbp-0x590], 0x0
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1939f50 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(10) = 1939f50
+[PTR 1939f50 checked]			404e90: test rax, rax
+[PTR 1935fe0 checked]			7f3c6985468f: test r12, r12
+[PTR 1935fe0 checked]			7f3c698546cd: test r12, r12
+[INFO]					malloc(37) = 1939f70
+[PTR 1939f70 checked]			7f3c69857138: test rax, rax
+[PTR 19361e0 checked]			7f3c698571cc: test rbp, rbp
+[PTR 19361a0 checked]			7f3c698571dc: test rdi, rdi
+[PTR 19371d0 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1937190 checked]			7f3c698571dc: test rdi, rdi
+[PTR 1936150 checked]			7f3c698571ff: test rbp, rbp
+[PTR 1936110 checked]			7f3c698571dc: test rdi, rdi
+[INFO]					free(1939f70)
+[PTR 1939f70 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1936150 checked]			7f3c69854f74: test rbx, rbx
+[PTR 19361e0 checked]			7f3c69855004: test rdi, rdi
+[PTR 1937150 checked]			7f3c69855034: test rdi, rdi
+[PTR 1936260 checked]			7f3c69855034: test rdi, rdi
+[PTR 1936150 checked]			7f3c698548b3: test rax, rax
+[PTR 19361e0 checked]			7f3c69854ac4: test rdi, rdi
+[PTR 1937150 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1936260 checked]			7f3c69854aec: test rdi, rdi
+[PTR 1939920 checked]			7f3c698d978c: test rdx, rdx
+[PTR 1939d80 checked]			7f3c691ec548: cmp qword ptr [rip+0x205dd8], 0x0
+[INFO]					malloc(238) = 1939fb0
+[PTR 1939fb0 checked]			7f3c6988faeb: test rax, rax
+[PTR 1939fb0 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1939fb0 checked]			7f3c6988fb46: test rax, rax
+[PTR 1939fb0 checked]			7f3c691eb773: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939fb0 checked]			7f3c691eb676: test rdi, rdi
+[PTR 1939fb0 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1939fb0)
+[PTR 1939fb0 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1939920 checked]			7f3c698d9848: cmp qword ptr [rip+0x2ebf50], 0x0
+[PTR 1939920 checked]			7f3c6986b7ca: cmp qword ptr [rbp-0x590], 0x0
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1939920 checked]			7f3c698d978c: test rdx, rdx
+[PTR 1939d80 checked]			7f3c691ec548: cmp qword ptr [rip+0x205dd8], 0x0
+[PTR 1939f70 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(238) = 1939f70
+[PTR 1939f70 checked]			7f3c6988faeb: test rax, rax
+[PTR 1939f70 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1939f70 checked]			7f3c6988fb46: test rax, rax
+[PTR 1939f70 checked]			7f3c691eb773: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939f70 checked]			7f3c691eb676: test rdi, rdi
+[PTR 1939f70 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1939f70)
+[PTR 1939f70 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1939920 checked]			7f3c698d9848: cmp qword ptr [rip+0x2ebf50], 0x0
+[PTR 1939920 checked]			7f3c6986b7ca: cmp qword ptr [rbp-0x590], 0x0
+[INFO]					free(0)
+[INFO]					free(0)
+[PTR 1939920 checked]			7f3c698d978c: test rdx, rdx
+[PTR 1939d80 checked]			7f3c691ec548: cmp qword ptr [rip+0x205dd8], 0x0
+[PTR 1939f70 checked]			7f3c698a3545: test rax, rax
+[INFO]					malloc(238) = 1939f70
+[PTR 1939f70 checked]			7f3c6988faeb: test rax, rax
+[PTR 1939f70 checked]			7f3c6989b4c3: test rax, rax
+[PTR 1939f70 checked]			7f3c6988fb46: test rax, rax
+[PTR 1939f70 checked]			7f3c691eb773: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939920 checked]			7f3c691ebb61: test rax, rax
+[PTR 1939f70 checked]			7f3c691eb676: test rdi, rdi
+[PTR 1939f70 checked]			7f3c6989c207: test rdx, rdx
+[INFO]					free(1939f70)
+[PTR 1939f70 checked]			7f3c698a3a1f: test rdi, rdi
+[PTR 1939920 checked]			7f3c698d9848: cmp qword ptr [rip+0x2ebf50], 0x0
+[PTR 1939920 checked]			7f3c6986b7ca: cmp qword ptr [rbp-0x590], 0x0
+[INFO]					free(0)
+[INFO]					free(0)
+[INFO]					free(1939f50)
+[PTR 1939f50 checked]			7f3c698a3a1f: test rdi, rdi
+uid=1000(jonathan) gid=100(users) groups=100(users)

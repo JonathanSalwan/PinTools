@@ -1,0 +1,2 @@
+Pin 2.12 kit 58423
+E: Taint.cpp:238: Invalid REG for IARG_REG_VALUE  reg: xmm0

@@ -1,0 +1,154 @@
+[INFO]					malloc(5) = 1a54010
+[READ in 1a54010 without check]		7fc4ae376544: mov byte ptr [rdi], cl
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x60], rax
+[READ in 1a54010 without check] ffffffffffffffff: mov rdi, 0x7fc4ae97185e
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c041ffe0
+[READ in 1a54010 without check] 7fc4ae3cb52e: mov ecx, dword ptr [rsi]
+[INFO]					free(1a54010)
+[READ in 1a54010 without check]		7fc4ae3beccb: mov qword ptr [rbx+0x10], rdx
+[INFO]					malloc(78) = 1a54030
+[READ in 1a54010 without check] 7fc4ae3bf77f: mov r8, qword ptr [r14+0x10]
+[INFO]					malloc(c) = 1a54010
+[READ in 1a54010 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54030 without check]		7fc4ae370afe: mov qword ptr [r12], rax
+[INFO]					malloc(308) = 1a540b0
+[READ in 1a540b0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(70) = 1a543c0
+[READ in 1a543c0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(3b8) = 1a54440
+[READ in 1a54440 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(d8) = 1a54800
+[READ in 1a54800 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(1b0) = 1a548e0
+[READ in 1a548e0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(68) = 1a54aa0
+[READ in 1a54aa0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(58) = 1a54b10
+[READ in 1a54b10 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(78) = 1a54b70
+[READ in 1a54b70 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(a8) = 1a54bf0
+[READ in 1a54bf0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(68) = 1a54ca0
+[READ in 1a54ca0 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(50) = 1a54d10
+[READ in 1a54d10 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[INFO]					malloc(c0) = 1a54d70
+[READ in 1a54d70 without check]		7fc4ae370b52: mov qword ptr [rax], rdx
+[READ in 1a54010 without check] ffffffffffffffff: mov rax, qword ptr [r15+0x60]
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54010 without check] ffffffffffffffff: lea rsi, ptr [r12-0x8]
+[INFO]					malloc(c) = 1a54e40
+[READ in 1a54010 without check] ffffffffffffffff: jmp 0x94d0
+[READ in 1a54e40 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov rsp, qword ptr [r15+0x770]
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54e60
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54e60 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54e80
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54e80 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54ea0
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54ea0 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54ec0
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54ec0 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54ee0
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54ee0 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54f00
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54f00 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54f20
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54f20 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54f40
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54f40 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54f60
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54f60 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54f80
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54f80 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54010 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54010 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[INFO]					malloc(c) = 1a54fa0
+[READ in 1a54010 without check] ffffffffffffffff: call r11
+[READ in 1a54fa0 without check]		ffffffffffffffff: mov rdi, 0x7fc4ae974a58
+[READ in 1a54fa0 without check] ffffffffffffffff: vzeroupper 
+[READ in 1a54f80 without check] ffffffffffffffff: call r11
+[READ in 1a54f80 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54f60 without check] 7fc4ae36f437: add ebp, 0x1
+[READ in 1a54f60 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[READ in 1a54f40 without check] 7fc4ae36f437: add ebp, 0x1
+[READ in 1a54f40 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[READ in 1a54f20 without check] 7fc4ae36f437: add ebp, 0x1
+[READ in 1a54f20 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[READ in 1a54f00 without check] 7fc4ae36f437: add ebp, 0x1
+[READ in 1a54f00 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: mov qword ptr [r15+0x40], rsp
+[READ in 1a54ee0 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54ee0 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 
+[READ in 1a54ec0 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54ec0 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 
+[READ in 1a54ea0 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54ea0 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 
+[READ in 1a54e80 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54e80 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 
+[READ in 1a54e60 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54e60 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 
+[READ in 1a54e40 without check] ffffffffffffffff: nop dword ptr [rax], eax
+[READ in 1a54e40 without check] ffffffffffffffff: mov r11, 0x7fc4c04201a0
+[READ in 1a54fa0 without check] ffffffffffffffff: cld 

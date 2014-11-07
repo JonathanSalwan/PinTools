@@ -1,0 +1,3 @@
+Pin 2.12 kit 58423
+A: Source/pin/core_ia32/operand_ia32.cpp:INS_OperandImmediate:INS_OperandImmediate:409: assertion failed: opname == XED_OPERAND_IMM0 ||opname ==XED_OPERAND_IMM1
+

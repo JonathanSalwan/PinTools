@@ -1,0 +1,2 @@
+Pin 2.12 kit 58423
+E: Taint.cpp:235: IARG_MEMORYOP_EA/IARG_MEMORYOP_MASKED_ON invalid memory operand index (0) on    289 0x00007f32b21c50b3 nop dword ptr [rax+rax*1], eax

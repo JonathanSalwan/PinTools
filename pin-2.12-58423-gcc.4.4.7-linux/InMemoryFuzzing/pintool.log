@@ -1,0 +1,3 @@
+Pin 2.12 kit 58423
+A: Source/pin/pin/image.cpp:IMG_IsMainExecutable:IMG_IsMainExecutable:324: The img passed to IMG_IsMainExecutable() is stale
+
