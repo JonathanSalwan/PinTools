@@ -1,3 +1,0 @@
-Pin 2.12 kit 58423
-A: Source/pin/vm_ia32/jit_iarg_ia32.cpp:SetupArgument:SetupArgument:3226: assertion failed: argreg != REG_INVALID()
-

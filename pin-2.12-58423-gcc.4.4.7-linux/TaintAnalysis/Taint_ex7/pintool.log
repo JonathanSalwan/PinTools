@@ -1,3 +1,0 @@
-Pin 2.12 kit 58423
-A: Source/pin/pin/image.cpp:RTN_Open:RTN_Open:3417: Must use RTN_Close on previous rtn before opening a new rtn
-
