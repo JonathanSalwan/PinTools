@@ -43,7 +43,7 @@
 //        |     return -1;
 //        |            
 //        |   fd = open("./file.txt", O_RDONLY);
-//        |   read(fd, buf, 8); /* The range [buff, buff+32] is tainted */
+//        |   read(fd, buf, 8); /* The range [buff, buff+8] is tainted */
 //        |   close(fd);
 //        |
 //        |   foo(buf); 
