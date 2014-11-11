@@ -39,3 +39,8 @@ Related blog post
 
 - http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/
 
+**FormatStringDetection**
+
+- n/a
+
+
