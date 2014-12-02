@@ -13,42 +13,49 @@ Timeline
 +======================================+==============+
 | FormatStringDetection                | Nov 11, 2014 |
 +--------------------------------------+--------------+
-| ConcolicExecution                    | Nov 07, 2014 |
+| OverflowDetection                    | Oct 10, 2014 |
 +--------------------------------------+--------------+
-| InMemoryFuzzing                      | Nov 07, 2014 |
+| ConcolicExecution                    | Aug 28, 2013 |
 +--------------------------------------+--------------+
-| LoopDetectionInstCounter             | Nov 07, 2014 |
+| InMemoryFuzzing                      | Aug 17, 2013 |
 +--------------------------------------+--------------+
-| OverflowDetection                    | Nov 07, 2014 |
+| LoopDetectionInstCounter             | Aug 13, 2014 |
 +--------------------------------------+--------------+
-| ObsoleteStackFrameAccessDetection    | Nov 07, 2014 |
+| ObsoleteStackFrameAccessDetection    | Aug 08, 2013 |
 +--------------------------------------+--------------+
-| ClassicalUseAfterFreePatternMatching | Nov 07, 2014 |
+| ClassicalUseAfterFreePatternMatching | Aug 08, 2013 |
 +--------------------------------------+--------------+
-| PointerWithoutCheckDetection         | Nov 07, 2014 |
+| PointerWithoutCheckDetection         | Aug 08, 2013 |
 +--------------------------------------+--------------+
-| TaintAnalysis                        | Nov 07, 2014 |
+| TaintAnalysis                        | Aug 08, 2013 |
 +--------------------------------------+--------------+
 
 
 Related blog post
 -----------------
 
-**ConcolicExecution**
 
-- http://shell-storm.org/blog/Binary-analysis-Concolic-execution-with-Pin-and-z3/
-
-**InMemoryFuzzing**
-
--  http://shell-storm.org/blog/In-Memory-fuzzing-with-Pin/
-
-**LoopDetectionInstCounter**
+**FormatStringDetection**
 
 - n/a
 
 **OverflowDetection**
 
 - http://shell-storm.org/blog/Stack-and-heap-overflow-detection-at-runtime-via-behavior-analysis-and-PIN/
+
+**ConcolicExecution**
+
+- http://shell-storm.org/blog/Binary-analysis-Concolic-execution-with-Pin-and-z3/
+
+
+**InMemoryFuzzing**
+
+-  http://shell-storm.org/blog/In-Memory-fuzzing-with-Pin/
+
+
+**LoopDetectionInstCounter**
+
+- n/a
 
 **ObsoleteStackFrameAccessDetection**
 
@@ -65,9 +72,5 @@ Related blog post
 **TaintAnalysis**
 
 - http://shell-storm.org/blog/Taint-analysis-and-pattern-matching-with-Pin/
-
-**FormatStringDetection**
-
-- n/a
 
 
