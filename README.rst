@@ -11,6 +11,8 @@ Timeline
 +----------------------------------------------------------------+--------------+
 | Name                                                           | date         |
 +================================================================+==============+
+| Talks/StHack-2015 Dynamic Behavior Analysis using DBI          | Mar 27, 2015 |
++----------------------------------------------------------------+--------------+
 | Talks/SecurityDayLille-2015 Dynamic Symbolic Execution         | Jan 17, 2015 |
 +----------------------------------------------------------------+--------------+
 | FormatStringDetection                                          | Nov 11, 2014 |
@@ -35,6 +37,10 @@ Timeline
 
 Related blog post
 -----------------
+
+**Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation*
+
+- n/a
 
 **Talks/SecurityDayLille-2015 Dynamic Symbolic Execution**
 
