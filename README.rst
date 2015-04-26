@@ -38,7 +38,7 @@ Timeline
 Related blog post
 -----------------
 
-**Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation*
+**Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation**
 
 - n/a
 
