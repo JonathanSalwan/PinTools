@@ -1,7 +1,8 @@
 Pin Tools
 =========
 
-I just decided to centralize my old and next Pin tools about program analysis in this repo.
+I just decided to centralize my old and next Pin tools about program analysis in this repo. Be careful, these 
+pintool are not reliable. They are here just as PoC and to provide some ideas.
 
 Timeline
 --------
@@ -44,7 +45,7 @@ Related blog post
 
 - http://shell-storm.org/blog/Triton-under-the-hood/
 
-**Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation*
+**Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation**
 
 - n/a
 
