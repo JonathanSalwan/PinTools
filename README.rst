@@ -11,6 +11,8 @@ Timeline
 +----------------------------------------------------------------+--------------+
 | Name                                                           | date         |
 +================================================================+==============+
+| Talks/SSTIC-2015 Triton a Pin-based DSE framewok               | Jun 03, 2015 |
++----------------------------------------------------------------+--------------+
 | Talks/StHack-2015 Dynamic Behavior Analysis using DBI          | Mar 27, 2015 |
 +----------------------------------------------------------------+--------------+
 | Talks/SecurityDayLille-2015 Dynamic Symbolic Execution         | Jan 17, 2015 |
@@ -37,6 +39,10 @@ Timeline
 
 Related blog post
 -----------------
+
+**Talks/SSTIC-2015 Triton a Pin-based concolic execution framework**
+
+- http://shell-storm.org/blog/Triton-under-the-hood/
 
 **Talks/StHack-2015 Dynamic Behavior Analysis Using Dynamic Binary Instrumentation*
 
